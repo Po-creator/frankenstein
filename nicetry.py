@@ -1,1 +1,2 @@
 print ("Aloha!")
+print("Bonjour!")
